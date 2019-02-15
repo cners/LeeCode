@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A1.队列和栈", "A1.队列和栈", "{30244B2D-7F68-4D74-AFE9-9C97A97CEDF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.队列-实现", "001.队列-实现\001.队列-实现.csproj", "{0286BFF6-9395-4F47-BBFD-AD328FDE31D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.循环队列", "002.循环队列\002.循环队列.csproj", "{E64C1256-8417-435B-AA13-14F816B119AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003.队列-内置用法", "003.队列-内置用法\003.队列-内置用法.csproj", "{E53C3D0B-B81C-4331-A9D5-E16D635FFAA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A2.队列和广度优先搜索", "A2.队列和广度优先搜索", "{631D0FAF-0ECB-446B-B3AD-1EDC12D8CE77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004.广度优先搜索", "004.广度优先搜索\004.广度优先搜索.csproj", "{E05CE09A-7BE3-419B-9437-AAC3D087158E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005.岛屿的个数", "005.岛屿的个数\005.岛屿的个数.csproj", "{29C70D37-0EFF-49DB-95BF-4D6A8C58BDDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0286BFF6-9395-4F47-BBFD-AD328FDE31D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0286BFF6-9395-4F47-BBFD-AD328FDE31D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0286BFF6-9395-4F47-BBFD-AD328FDE31D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0286BFF6-9395-4F47-BBFD-AD328FDE31D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64C1256-8417-435B-AA13-14F816B119AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64C1256-8417-435B-AA13-14F816B119AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64C1256-8417-435B-AA13-14F816B119AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64C1256-8417-435B-AA13-14F816B119AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53C3D0B-B81C-4331-A9D5-E16D635FFAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53C3D0B-B81C-4331-A9D5-E16D635FFAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53C3D0B-B81C-4331-A9D5-E16D635FFAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53C3D0B-B81C-4331-A9D5-E16D635FFAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05CE09A-7BE3-419B-9437-AAC3D087158E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05CE09A-7BE3-419B-9437-AAC3D087158E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05CE09A-7BE3-419B-9437-AAC3D087158E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05CE09A-7BE3-419B-9437-AAC3D087158E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C70D37-0EFF-49DB-95BF-4D6A8C58BDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C70D37-0EFF-49DB-95BF-4D6A8C58BDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C70D37-0EFF-49DB-95BF-4D6A8C58BDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C70D37-0EFF-49DB-95BF-4D6A8C58BDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0286BFF6-9395-4F47-BBFD-AD328FDE31D1} = {30244B2D-7F68-4D74-AFE9-9C97A97CEDF6}
+		{E64C1256-8417-435B-AA13-14F816B119AE} = {30244B2D-7F68-4D74-AFE9-9C97A97CEDF6}
+		{E53C3D0B-B81C-4331-A9D5-E16D635FFAA9} = {30244B2D-7F68-4D74-AFE9-9C97A97CEDF6}
+		{E05CE09A-7BE3-419B-9437-AAC3D087158E} = {631D0FAF-0ECB-446B-B3AD-1EDC12D8CE77}
+		{29C70D37-0EFF-49DB-95BF-4D6A8C58BDDD} = {631D0FAF-0ECB-446B-B3AD-1EDC12D8CE77}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC240D7-CE91-4F25-8FF1-F77D2A465490}
+	EndGlobalSection
+EndGlobal

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\02、程序测试\\LeeCode\\011.盛最多水的容器\\011.盛最多水的容器.csproj",
+      "projectUniqueName": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\011.盛最多水的容器\\011.盛最多水的容器.csproj",
       "projectName": "011.盛最多水的容器",
-      "projectPath": "D:\\02、程序测试\\LeeCode\\011.盛最多水的容器\\011.盛最多水的容器.csproj",
+      "projectPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\011.盛最多水的容器\\011.盛最多水的容器.csproj",
       "packagesPath": "C:\\Users\\dk047\\.nuget\\packages\\",
-      "outputPath": "D:\\02、程序测试\\LeeCode\\011.盛最多水的容器\\obj\\",
+      "outputPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\011.盛最多水的容器\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

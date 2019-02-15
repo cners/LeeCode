@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\02、程序测试\\LeeCode\\LeeCode\\002.两数相加.csproj",
+      "projectUniqueName": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\LeeCode\\002.两数相加.csproj",
       "projectName": "002.两数相加",
-      "projectPath": "D:\\02、程序测试\\LeeCode\\LeeCode\\002.两数相加.csproj",
+      "projectPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\LeeCode\\002.两数相加.csproj",
       "packagesPath": "C:\\Users\\dk047\\.nuget\\packages\\",
-      "outputPath": "D:\\02、程序测试\\LeeCode\\LeeCode\\obj\\",
+      "outputPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\LeeCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

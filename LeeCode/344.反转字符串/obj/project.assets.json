@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\02、程序测试\\LeeCode\\344.反转字符串\\344.反转字符串.csproj",
+      "projectUniqueName": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\344.反转字符串\\344.反转字符串.csproj",
       "projectName": "344.反转字符串",
-      "projectPath": "D:\\02、程序测试\\LeeCode\\344.反转字符串\\344.反转字符串.csproj",
+      "projectPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\344.反转字符串\\344.反转字符串.csproj",
       "packagesPath": "C:\\Users\\dk047\\.nuget\\packages\\",
-      "outputPath": "D:\\02、程序测试\\LeeCode\\344.反转字符串\\obj\\",
+      "outputPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\344.反转字符串\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

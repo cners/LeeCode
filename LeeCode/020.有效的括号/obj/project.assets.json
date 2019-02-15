@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\02、程序测试\\LeeCode\\020.有效的括号\\020.有效的括号.csproj",
+      "projectUniqueName": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\020.有效的括号\\020.有效的括号.csproj",
       "projectName": "020.有效的括号",
-      "projectPath": "D:\\02、程序测试\\LeeCode\\020.有效的括号\\020.有效的括号.csproj",
+      "projectPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\020.有效的括号\\020.有效的括号.csproj",
       "packagesPath": "C:\\Users\\dk047\\.nuget\\packages\\",
-      "outputPath": "D:\\02、程序测试\\LeeCode\\020.有效的括号\\obj\\",
+      "outputPath": "D:\\01、工作协作\\16、算法\\LeeCode\\LeeCode\\020.有效的括号\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

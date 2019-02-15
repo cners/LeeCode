@@ -5,11 +5,15 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.两数相加", "LeeCode\002.两数相加.csproj", "{4A6C6013-0477-40BF-8B47-B51AA17EB697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344.反转字符串", "344.反转字符串\344.反转字符串.csproj", "{C405DFA1-8DC9-45F9-984F-EACF6171F327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "344.反转字符串", "344.反转字符串\344.反转字符串.csproj", "{C405DFA1-8DC9-45F9-984F-EACF6171F327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011.盛最多水的容器", "011.盛最多水的容器\011.盛最多水的容器.csproj", "{0992EA9D-4085-4184-9CAF-64B1BCEC3BA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011.盛最多水的容器", "011.盛最多水的容器\011.盛最多水的容器.csproj", "{0992EA9D-4085-4184-9CAF-64B1BCEC3BA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020.有效的括号", "020.有效的括号\020.有效的括号.csproj", "{C826C48F-5165-44AC-850B-158E9C4240EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020.有效的括号", "020.有效的括号\020.有效的括号.csproj", "{C826C48F-5165-44AC-850B-158E9C4240EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557.反转字符串中的单词 III", "557.反转字符串中的单词 III\557.反转字符串中的单词 III.csproj", "{D858955F-35E9-4317-93E0-54FAF0559F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007.整数反转", "007.整数反转\007.整数反转.csproj", "{AE4DF7AE-7D00-4E27-9C2C-1FFC8FF9D34C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C826C48F-5165-44AC-850B-158E9C4240EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C826C48F-5165-44AC-850B-158E9C4240EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C826C48F-5165-44AC-850B-158E9C4240EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D858955F-35E9-4317-93E0-54FAF0559F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D858955F-35E9-4317-93E0-54FAF0559F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D858955F-35E9-4317-93E0-54FAF0559F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D858955F-35E9-4317-93E0-54FAF0559F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4DF7AE-7D00-4E27-9C2C-1FFC8FF9D34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4DF7AE-7D00-4E27-9C2C-1FFC8FF9D34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4DF7AE-7D00-4E27-9C2C-1FFC8FF9D34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4DF7AE-7D00-4E27-9C2C-1FFC8FF9D34C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
