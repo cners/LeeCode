@@ -477,7 +477,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.2.0": {
-      "sha512": "OK/H8p9Ig6mLMITjXJ4VOewrJg/TU+dAPHE4BdMWMv+8COzBehf7XF1+DofKkmqdHpO2cJoS5Sc9PEZ6PKCbsg==",
+      "sha512": "qIrVLupwT2NYTrf7KM7Nh+mJr36V5MITVRjyGOByVVCwGmQgQmI/6bjZYQv+QdExi4Cm87eCKJX9FdT6nc00Xg==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.2.0",
       "files": [
@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dk047\\.nuget\\packages\\": {},
+    "C:\\Users\\MACHENIKE\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\01、工作协作\\16、算法\\LeeCode\\Explore\\001.队列-实现\\001.队列-实现.csproj",
+      "projectUniqueName": "F:\\github\\LeeCode\\Explore\\001.队列-实现\\001.队列-实现.csproj",
       "projectName": "001.队列-实现",
-      "projectPath": "D:\\01、工作协作\\16、算法\\LeeCode\\Explore\\001.队列-实现\\001.队列-实现.csproj",
-      "packagesPath": "C:\\Users\\dk047\\.nuget\\packages\\",
-      "outputPath": "D:\\01、工作协作\\16、算法\\LeeCode\\Explore\\001.队列-实现\\obj\\",
+      "projectPath": "F:\\github\\LeeCode\\Explore\\001.队列-实现\\001.队列-实现.csproj",
+      "packagesPath": "C:\\Users\\MACHENIKE\\.nuget\\packages\\",
+      "outputPath": "F:\\github\\LeeCode\\Explore\\001.队列-实现\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dk047\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MACHENIKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
