@@ -30,7 +30,6 @@ namespace _005.岛屿的个数
 
     public class Solution
     {
-
         public int NumIslands(char[,] grid)
         {
             if (grid.Length == 0) return 0;

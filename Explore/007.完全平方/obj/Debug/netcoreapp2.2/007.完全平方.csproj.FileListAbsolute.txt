@@ -1,0 +1,11 @@
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\bin\Debug\netcoreapp2.2\007.完全平方.deps.json
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\bin\Debug\netcoreapp2.2\007.完全平方.runtimeconfig.json
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\bin\Debug\netcoreapp2.2\007.完全平方.runtimeconfig.dev.json
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\bin\Debug\netcoreapp2.2\007.完全平方.dll
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\bin\Debug\netcoreapp2.2\007.完全平方.pdb
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\obj\Debug\netcoreapp2.2\007.完全平方.csprojAssemblyReference.cache
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\obj\Debug\netcoreapp2.2\007.完全平方.csproj.CoreCompileInputs.cache
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\obj\Debug\netcoreapp2.2\007.完全平方.AssemblyInfoInputs.cache
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\obj\Debug\netcoreapp2.2\007.完全平方.AssemblyInfo.cs
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\obj\Debug\netcoreapp2.2\007.完全平方.dll
+D:\01、工作协作\16、算法\LeeCode\Explore\007.完全平方\obj\Debug\netcoreapp2.2\007.完全平方.pdb

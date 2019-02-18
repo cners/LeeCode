@@ -1,0 +1,10 @@
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\bin\Debug\netcoreapp2.2\008.栈的实现.deps.json
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\bin\Debug\netcoreapp2.2\008.栈的实现.runtimeconfig.json
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\bin\Debug\netcoreapp2.2\008.栈的实现.runtimeconfig.dev.json
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\bin\Debug\netcoreapp2.2\008.栈的实现.dll
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\bin\Debug\netcoreapp2.2\008.栈的实现.pdb
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\obj\Debug\netcoreapp2.2\008.栈的实现.csproj.CoreCompileInputs.cache
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\obj\Debug\netcoreapp2.2\008.栈的实现.AssemblyInfoInputs.cache
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\obj\Debug\netcoreapp2.2\008.栈的实现.AssemblyInfo.cs
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\obj\Debug\netcoreapp2.2\008.栈的实现.dll
+D:\01、工作协作\16、算法\LeeCode\Explore\008.栈的实现\obj\Debug\netcoreapp2.2\008.栈的实现.pdb

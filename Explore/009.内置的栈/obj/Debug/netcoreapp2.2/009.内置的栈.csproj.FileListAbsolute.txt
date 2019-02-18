@@ -1,0 +1,10 @@
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\bin\Debug\netcoreapp2.2\009.内置的栈.deps.json
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\bin\Debug\netcoreapp2.2\009.内置的栈.runtimeconfig.json
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\bin\Debug\netcoreapp2.2\009.内置的栈.runtimeconfig.dev.json
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\bin\Debug\netcoreapp2.2\009.内置的栈.dll
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\bin\Debug\netcoreapp2.2\009.内置的栈.pdb
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\obj\Debug\netcoreapp2.2\009.内置的栈.csproj.CoreCompileInputs.cache
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\obj\Debug\netcoreapp2.2\009.内置的栈.AssemblyInfoInputs.cache
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\obj\Debug\netcoreapp2.2\009.内置的栈.AssemblyInfo.cs
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\obj\Debug\netcoreapp2.2\009.内置的栈.dll
+D:\01、工作协作\16、算法\LeeCode\Explore\009.内置的栈\obj\Debug\netcoreapp2.2\009.内置的栈.pdb
